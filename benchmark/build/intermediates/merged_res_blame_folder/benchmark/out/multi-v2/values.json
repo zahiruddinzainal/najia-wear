@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.android.wearable.composeadvanced.benchmark-mergeBenchmarkResources-12:/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/zvhir/.gradle/caches/transforms-3/c57fc64c12ccf75134d844c05ea67c1b/transformed/jetified-core-1.5.0/res/values/values.xml",
+                    "from": {
+                        "startLines": "4,11",
+                        "startColumns": "0,0",
+                        "startOffsets": "176,544",
+                        "endLines": "10,17",
+                        "endColumns": "8,8",
+                        "endOffsets": "543,909"
+                    },
+                    "to": {
+                        "startLines": "3,10",
+                        "startColumns": "4,4",
+                        "startOffsets": "138,510",
+                        "endLines": "9,16",
+                        "endColumns": "8,8",
+                        "endOffsets": "505,875"
+                    }
+                },
+                {
+                    "source": "/Users/zvhir/.gradle/caches/transforms-3/f50dee45f0d7ce0f943ea58c07fd3a2f/transformed/jetified-startup-runtime-1.0.0/res/values/values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "82",
+                        "endOffsets": "133"
+                    }
+                }
+            ]
+        }
+    ]
+}

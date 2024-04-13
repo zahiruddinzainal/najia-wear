@@ -1,0 +1,10 @@
+#Tue Sep 19 11:17:22 MYT 2023
+base.0=/Users/zvhir/android/najiawear/benchmark/build/intermediates/dex/benchmark/mergeExtDexBenchmark/classes.dex
+base.1=/Users/zvhir/android/najiawear/benchmark/build/intermediates/dex/benchmark/mergeProjectDexBenchmark/0/classes.dex
+base.2=/Users/zvhir/android/najiawear/benchmark/build/intermediates/dex/benchmark/mergeProjectDexBenchmark/9/classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=9/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex

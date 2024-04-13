@@ -1,0 +1,17 @@
+com.example.android.wearable.composeadvanced.benchmark-jetified-benchmark-common-1.1.1-0 /Users/zvhir/.gradle/caches/transforms-3/07c4b7fa546b4d952d9d271e1bf50ee5/transformed/jetified-benchmark-common-1.1.1/res
+com.example.android.wearable.composeadvanced.benchmark-jetified-benchmark-junit4-1.1.1-1 /Users/zvhir/.gradle/caches/transforms-3/311200de6a520e79507935c2a40eaabe/transformed/jetified-benchmark-junit4-1.1.1/res
+com.example.android.wearable.composeadvanced.benchmark-jetified-annotation-experimental-1.1.0-2 /Users/zvhir/.gradle/caches/transforms-3/66637274c8ed6859adb4910c1ccc77b5/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.android.wearable.composeadvanced.benchmark-jetified-tracing-ktx-1.1.0-3 /Users/zvhir/.gradle/caches/transforms-3/6c43507786d7fb366ddf1fd38c4136e4/transformed/jetified-tracing-ktx-1.1.0/res
+com.example.android.wearable.composeadvanced.benchmark-jetified-benchmark-macro-1.1.1-4 /Users/zvhir/.gradle/caches/transforms-3/6feb324032c63d5b7049295936014f8f/transformed/jetified-benchmark-macro-1.1.1/res
+com.example.android.wearable.composeadvanced.benchmark-jetified-tracing-1.1.0-5 /Users/zvhir/.gradle/caches/transforms-3/75a1aae9b07677df3616499080f7b4f0/transformed/jetified-tracing-1.1.0/res
+com.example.android.wearable.composeadvanced.benchmark-jetified-profileinstaller-1.0.3-6 /Users/zvhir/.gradle/caches/transforms-3/aeed5b4d2b304f64fd58f499aed8b781/transformed/jetified-profileinstaller-1.0.3/res
+com.example.android.wearable.composeadvanced.benchmark-jetified-core-1.5.0-7 /Users/zvhir/.gradle/caches/transforms-3/c57fc64c12ccf75134d844c05ea67c1b/transformed/jetified-core-1.5.0/res
+com.example.android.wearable.composeadvanced.benchmark-jetified-benchmark-macro-junit4-1.1.1-8 /Users/zvhir/.gradle/caches/transforms-3/ea52d097f73fc83b9055591117059646/transformed/jetified-benchmark-macro-junit4-1.1.1/res
+com.example.android.wearable.composeadvanced.benchmark-jetified-startup-runtime-1.0.0-9 /Users/zvhir/.gradle/caches/transforms-3/f50dee45f0d7ce0f943ea58c07fd3a2f/transformed/jetified-startup-runtime-1.0.0/res
+com.example.android.wearable.composeadvanced.benchmark-pngs-10 /Users/zvhir/android/najiawear/benchmark/build/generated/res/pngs/benchmark
+com.example.android.wearable.composeadvanced.benchmark-resValues-11 /Users/zvhir/android/najiawear/benchmark/build/generated/res/resValues/benchmark
+com.example.android.wearable.composeadvanced.benchmark-mergeBenchmarkResources-12 /Users/zvhir/android/najiawear/benchmark/build/intermediates/incremental/benchmark/mergeBenchmarkResources/merged.dir
+com.example.android.wearable.composeadvanced.benchmark-mergeBenchmarkResources-13 /Users/zvhir/android/najiawear/benchmark/build/intermediates/incremental/benchmark/mergeBenchmarkResources/stripped.dir
+com.example.android.wearable.composeadvanced.benchmark-merged_res-14 /Users/zvhir/android/najiawear/benchmark/build/intermediates/merged_res/benchmark
+com.example.android.wearable.composeadvanced.benchmark-benchmark-15 /Users/zvhir/android/najiawear/benchmark/src/benchmark/res
+com.example.android.wearable.composeadvanced.benchmark-main-16 /Users/zvhir/android/najiawear/benchmark/src/main/res
